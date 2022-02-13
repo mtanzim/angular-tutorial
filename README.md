@@ -1,3 +1,3 @@
-# angular-eu2hfh-o9xhce
+# angular-tutorial
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-eu2hfh-o9xhce)
+- [Tutorial](https://angular.io/start)
